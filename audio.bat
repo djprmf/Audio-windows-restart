@@ -18,3 +18,5 @@ ECHO Pronto, servico reiniciado.
 ECHO Agora o som deve funcionar (provavelmente). Ate logo! DJPRMF - tugatech.com.pt 
 ECHO.
 PAUSE 
+:: Don't steal. Well, ok, steal this code, i don't care.
+:: It's a dirty BAT. No copyright, Pirate (arrrrrrhhh)
